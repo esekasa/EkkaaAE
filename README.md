@@ -46,13 +46,13 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center"> -->
 <!-- Dark -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EkkaaAE&radius=16&theme=react&area=true&order=5" height="auto" alt="by fatkhurhhn"/>
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=EkkaaAE&radius=16&theme=react&area=true&order=5" height="auto" alt="by fatkhurhhn"/> -->
 
 <!-- White -->
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=EkkaaAE&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn"/> -->
-</div>
+<!-- </div> -->
 
 ---
 
