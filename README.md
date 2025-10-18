@@ -54,6 +54,4 @@
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=EkkaaAE&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn"/> -->
 <!-- </div> -->
 
----
-
 <h4 align="center">Thanks you for visiting, and happy coding! 😁</h4>
